@@ -1,0 +1,10 @@
+c:\users\filse\source\repos\Agile A2 - Converted code\Agile A2 - Converted code\bin\Debug\Agile A2 - Converted code.exe.config
+c:\users\filse\source\repos\Agile A2 - Converted code\Agile A2 - Converted code\bin\Debug\Agile A2 - Converted code.exe
+c:\users\filse\source\repos\Agile A2 - Converted code\Agile A2 - Converted code\bin\Debug\Agile A2 - Converted code.pdb
+c:\users\filse\source\repos\Agile A2 - Converted code\Agile A2 - Converted code\obj\Debug\Agile A2 - Converted code.csprojResolveAssemblyReference.cache
+c:\users\filse\source\repos\Agile A2 - Converted code\Agile A2 - Converted code\obj\Debug\Agile_A2___Converted_code.Form1.resources
+c:\users\filse\source\repos\Agile A2 - Converted code\Agile A2 - Converted code\obj\Debug\Agile_A2___Converted_code.Properties.Resources.resources
+c:\users\filse\source\repos\Agile A2 - Converted code\Agile A2 - Converted code\obj\Debug\Agile A2 - Converted code.csproj.GenerateResource.Cache
+c:\users\filse\source\repos\Agile A2 - Converted code\Agile A2 - Converted code\obj\Debug\Agile A2 - Converted code.csproj.CoreCompileInputs.cache
+c:\users\filse\source\repos\Agile A2 - Converted code\Agile A2 - Converted code\obj\Debug\Agile A2 - Converted code.exe
+c:\users\filse\source\repos\Agile A2 - Converted code\Agile A2 - Converted code\obj\Debug\Agile A2 - Converted code.pdb
